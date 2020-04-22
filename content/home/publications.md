@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "publication"
 
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 4
 
   # Choose how many pages you would like to offset by
   offset = 0
@@ -58,6 +58,10 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["30px", "0", "30px", "0"]
 
 [advanced]
  # Custom CSS.

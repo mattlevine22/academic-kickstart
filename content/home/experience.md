@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2015-07-01"
   date_end = "2018-07-01"
   description = """
-  Responsibilities include:
+  Advised by Professors David Albers, George Hripcsak, and Lena Mamykina
   """
 
 [[experience]]
@@ -36,5 +36,10 @@ date_format = "Jan 2006"
   date_start = "2018-09-01"
   date_end = ""
   description = """Advised by Professor Andrew Stuart"""
+
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["30px", "0", "75px", "0"]
 
 +++

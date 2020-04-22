@@ -22,7 +22,7 @@ subtitle = ""
   order = "desc"
 
   # Show a "See all pages" link underneath the featured content?
-  link_to_archive = true
+  link_to_archive = false
 
   # Filter posts by a taxonomy term.
   [content.filters]
@@ -58,6 +58,10 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "0", "0"]
 
 [advanced]
  # Custom CSS.

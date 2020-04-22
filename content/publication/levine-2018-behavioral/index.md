@@ -1,7 +1,7 @@
 ---
 title: "Behavioral-clinical phenotyping with type 2 diabetes self-monitoring data"
 date: 2018-01-01
-publishDate: 2020-04-22T04:23:38.410588Z
+publishDate: 2020-04-22T07:00:38.889202Z
 authors: ["Matthew E Levine", "David J Albers", "Marissa Burgermaster", "Patricia G Davidson", "Arlene M Smaldone", "Lena Mamykina"]
 publication_types: ["2"]
 abstract: ""

@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:mlevine@caltech.edu".
+  link: "mailto:mlevine@caltech.edu"  # For a direct email link, use "mailto:mlevine@caltech.edu".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=QUs08XEAAAAJ&hl=en&authuser=1
@@ -64,4 +64,4 @@ user_groups:
 #- Visitors
 ---
 
-I am a graduate student in computing and mathematical sciences advised by Andrew Stuart. My work focuses on using machine learning methods to improve physics-based dynamical systems models and data assimilation machinery. This work has exciting implications for biomedical sciences and climate sciences.
+Welcome! I am a graduate student in computing and mathematical sciences at Caltech. My work focuses on improving traditional physics-based forecasting of dynamical systems by blending data assimilation and machine learning techniques. The growing trend of physics-aware/informed/guided/agnostic machine learning has created exciting new opportunities in applied mathematics, and I am currently developing a theoretical framework that unifies these approaches. In addition, I am applying these methods to biomedical and climatalogical contexts in order to advance state-of-the-art prediction performance in these domains.

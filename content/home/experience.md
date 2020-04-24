@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2015-07-01"
   date_end = "2018-07-01"
   description = """
-  Advised by Professors David Albers, George Hripcsak, and Lena Mamykina
+  Supervised by Professors David Albers, George Hripcsak, and Lena Mamykina
   """
 
 [[experience]]

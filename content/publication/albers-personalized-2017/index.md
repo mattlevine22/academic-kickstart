@@ -8,6 +8,7 @@ abstract: "Type 2 diabetes leads to premature death and reduced quality of life 
 featured: true
 publication: "*PLoS computational biology*"
 tags: ["Adult", "Algorithms", "Blood Glucose", "Computational Biology", "Diabetes Mellitus", "Type 2", "Female", "Humans", "Insulin", "Male", "Patient-Specific Modeling"]
+url_pdf: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005232"
 doi: "10.1371/journal.pcbi.1005232"
 ---
 

@@ -65,6 +65,3 @@ user_groups:
 ---
 
 Welcome! I am a graduate student in computing and mathematical sciences at Caltech. My work focuses on improving traditional physics-based forecasting of dynamical systems by blending data assimilation and machine learning techniques. The growing trend of physics-aware/informed/guided/agnostic machine learning has created exciting new opportunities in applied mathematics, and I am currently developing a theoretical framework to unify these approaches. In addition, I enjoy applying these methods in impactful contexts---so far, I have worked substantially in the biomedical sciences, and have begun work directed towards climatological applications.
-
-Here is a link to the slides for my talk at SIAM Dynamical Systems 2021:
-https://www.dropbox.com/s/l8c8r4qiovcggpm/SIAM_DS_2021_talk_Levine.pdf?dl=0

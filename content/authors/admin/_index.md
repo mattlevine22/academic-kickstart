@@ -64,4 +64,4 @@ user_groups:
 #- Visitors
 ---
 
-Welcome! I am a graduate student in computing and mathematical sciences at Caltech. My work focuses on improving traditional physics-based forecasting of dynamical systems by blending data assimilation and machine learning techniques. The growing trend of physics-aware/informed/guided/agnostic machine learning has created exciting new opportunities in applied mathematics, and I am currently developing a theoretical framework to unify these approaches. In addition, I enjoy applying these methods in impactful contexts---so far, I have worked substantially in the biomedical sciences, and have begun work directed towards climatological applications.
+Welcome! I am a graduate student in computing and mathematical sciences at Caltech. My work focuses on improving the prediction and inference of physical systems by blending machine learning, mechanistic modeling, and data assimilation techniques. I aim to build robust, unifying theory for these approaches, as well as develop concrete applications. I have worked substantially in the biomedical sciences, and enjoy collaborating on impactful applied projects.

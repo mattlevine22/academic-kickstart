@@ -11,4 +11,3 @@ tags: ["Bayes Theorem", "Blood Glucose", "Blood Glucose Self-Monitoring", "Data 
 url_pdf: "https://authors.library.caltech.edu/90365/1/ocy106.pdf"
 doi: "10.1093/jamia/ocy106"
 ---
-

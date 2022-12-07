@@ -27,6 +27,7 @@ interests:
 - Dynamical Systems
 - Machine Learning
 - Data Assimilation
+- Biomedicine
 
 education:
   courses:

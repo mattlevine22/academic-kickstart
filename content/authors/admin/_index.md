@@ -34,10 +34,9 @@ education:
   - course: BA in Biophysics
     institution: Columbia University
     year: 2015
-
-    - course: PhD in Computing + Mathematical Sciences
-      institution: Caltech
-      year: Expected May 2023
+  - course: PhD in Computing + Mathematical Sciences
+    institution: Caltech
+    year: Expected May 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

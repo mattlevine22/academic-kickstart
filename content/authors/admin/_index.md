@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student in Computing + Mathematical Sciences
+role: PhD Candidate in Computing + Mathematical Sciences
 
 # Organizations/Affiliations
 organizations:
@@ -33,6 +33,10 @@ education:
   - course: BA in Biophysics
     institution: Columbia University
     year: 2015
+
+    - course: PhD in Computing + Mathematical Sciences
+      institution: Caltech
+      year: Expected May 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -65,3 +69,7 @@ user_groups:
 ---
 
 Welcome! I am a graduate student in computing and mathematical sciences at Caltech. My work focuses on improving the prediction and inference of physical systems by blending machine learning, mechanistic modeling, and data assimilation techniques. I aim to build robust, unifying theory for these approaches, as well as develop concrete applications. I have worked substantially in the biomedical sciences, and enjoy collaborating on impactful applied projects.
+
+I expect to graduate in May 2023, and am actively seeking full-time positions at the intersections of machine learning, dynamical systems, and biomedical sciences. Please feel free to email me if you have open positions for which I would be a good fit!
+
+I am always interested in developing new collaborations. If you think our work is complementary, please send me a message!

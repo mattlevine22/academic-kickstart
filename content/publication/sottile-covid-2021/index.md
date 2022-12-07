@@ -1,5 +1,5 @@
 ---
-title: "Real-Time Electronic Health Record Mortality Prediction during the {{COVID-19}} Pandemic: A Prospective Cohort Study"
+title: "Real-Time Electronic Health Record Mortality Prediction during the COVID-19 Pandemic: A Prospective Cohort Study"
 date: 2021-01-15
 publishDate: 2021-01-15
 authors: ["Peter D. Sottile", "David J. Albers", "Peter E. DeWitt", "Seth Russell", "J N Stroh", "David P. Kao", "Bonnie Adrian", "Matthew E. Levine", "Ryan Mooney", "Lenny Larchick", "Jean S. Kutner", "Matthew K. Wynia", "Jeffrey J. Glasheen", "Tellen D. Bennett"]

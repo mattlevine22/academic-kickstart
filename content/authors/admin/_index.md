@@ -68,8 +68,12 @@ user_groups:
 #- Visitors
 ---
 
-Welcome! I am a graduate student in computing and mathematical sciences at Caltech. My work focuses on improving the prediction and inference of physical systems by blending machine learning, mechanistic modeling, and data assimilation techniques. I aim to build robust, unifying theory for these approaches, as well as develop concrete applications. I have worked substantially in the biomedical sciences, and enjoy collaborating on impactful applied projects.
-
-I expect to graduate in May 2023, and am actively seeking full-time positions at the intersections of machine learning, dynamical systems, and biomedical sciences. Please feel free to email me if you have open positions for which I would be a good fit!
+Welcome! I am a Postdoctoral Fellow at the Eric and Wendy Schmidt Center at the Broad Institute of MIT/Harvard. My work focuses on improving the prediction and inference of biological and physical systems by blending machine learning, mechanistic modeling, and data assimilation techniques. I aim to build robust, unifying theory for these approaches, as well as develop concrete applications. I have worked substantially in the biomedical sciences, and enjoy collaborating on impactful applied projects.
 
 I am always interested in developing new collaborations. If you think our work is complementary, please send me a message!
+
+Updates:
+
+- August 2023: I co-organized a [minisymposium at ICIAM 2023 on randomized machine learning](https://iciam2023.org/registered_data?id=00831).
+
+- May 2023: I recently graduated with a PhD in computing and mathematical sciences at Caltech.

@@ -68,7 +68,7 @@ user_groups:
 #- Visitors
 ---
 
-Welcome! I am a Postdoctoral Fellow at the Eric and Wendy Schmidt Center at the Broad Institute of MIT/Harvard. My work focuses on improving the prediction and inference of biological and physical systems by blending machine learning, mechanistic modeling, and data assimilation techniques. I aim to build robust, unifying theory for these approaches, as well as develop concrete applications. I have worked substantially in the biomedical sciences, and enjoy collaborating on impactful applied projects.
+Welcome! I am a Postdoctoral Fellow at the Broad Institute of MIT/Harvard in the Eric and Wendy Schmidt Center. My work focuses on improving the prediction and inference of biological and physical systems by blending machine learning, mechanistic modeling, and data assimilation techniques. I aim to build robust, unifying theory for these approaches, as well as develop concrete applications. I have worked substantially in the biomedical sciences, and enjoy collaborating on impactful applied projects.
 
 I am always interested in developing new collaborations. If you think our work is complementary, please send me a message!
 

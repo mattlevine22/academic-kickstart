@@ -74,6 +74,8 @@ I am always interested in developing new collaborations. If you think our work i
 
 Updates:
 
-- August 2023: I co-organized a [minisymposium at ICIAM 2023 on randomized machine learning](https://iciam2023.org/registered_data?id=00831).
+- August 2023: I co-organized a [minisymposium at ICIAM 2023 on randomized machine learning](https://iciam2023.org/registered_data?id=00831). Thank you to our wonderful speakers, attendees, and co-organizers for such enriching sessions!
 
-- May 2023: I recently graduated with a PhD in computing and mathematical sciences at Caltech.
+- July 2023: I visited Prof. Iñigo Urteaga at the Basque Center for Applied Mathematics (BCAM) in Bilbao, Spain. I gave a talk on [Combining Data Assimilation and Neural ODEs for Learning Hybrid Models of Dynamics](https://www.bcamath.org/en/news-events/events/bcam-scientific-seminar-combining-data-assimilation-and-neural-odes-learning). Thank you to Iñigo and BCAM for hosting me! I look forward to continuing our collaboration on uncertainty quantification for hybrid dynamical models.
+
+- May 2023: I defended my PhD thesis [Machine Learning and Data Assimilation for Blending Incomplete Models and Noisy Data](https://thesis.library.caltech.edu/15264/). I graduated with a PhD in computing and mathematical sciences at Caltech advised by Andrew Stuart.

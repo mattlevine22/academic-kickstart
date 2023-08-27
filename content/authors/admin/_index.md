@@ -10,14 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Computing + Mathematical Sciences
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Advised by Andrew Stuart
-  url: "http://stuart.caltech.edu"
-- name: California Institute of Technology
-  url: "http://www.cms.caltech.edu"
+- name: Eric and Wendy Schmidt Center
+  url: "https://www.ericandwendyschmidtcenter.org"
+- name: Broad Institute of MIT/Harvard
+  url: "https://www.broadinstitute.org/ewsc"
 
 
 # Short bio (displayed in user profile at end of posts)

@@ -34,9 +34,26 @@ date_format = "Jan 2006"
   company_url = "http://www.cms.caltech.edu"
   location = "Pasadena, CA"
   date_start = "2018-09-01"
-  date_end = ""
+  date_end = "2023-06-01"
   description = """Advised by Professor Andrew Stuart"""
 
+[[experience]]
+  title = "Postdoctoral Associate"
+  company = "Computing + Mathematical Sciences, California Institute of Technology"
+  company_url = "http://www.cms.caltech.edu"
+  location = "Pasadena, CA"
+  date_start = "2023-06-01"
+  date_end = "2023-09-01"
+  description = """Advised by Professor Andrew Stuart"""
+
+
+[[experience]]
+  title = "Postdoctoral Fellow"
+  company = "Eric and Wendy Schmidt Center, Broad Institute of MIT/Harvard"
+  company_url = "https://www.ericandwendyschmidtcenter.org"
+  location = "Cambridge, MA"
+  date_start = "2023-09-18"
+  date_end = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.

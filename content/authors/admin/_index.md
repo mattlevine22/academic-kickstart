@@ -74,6 +74,8 @@ I am always interested in developing new collaborations. If you think our work i
 
 Updates:
 
+-May 2023: New Jax repository ([CD_Dynamax](https://github.com/hd-UQ/cd_dynamax), joint with [Iñigo Urteaga](http://iurteaga.github.io), for learning dynamical systems from irregularly sampled, partially observed, noisy time-series data (extends discrete-time state-space approach in [Dynamax](https://github.com/probml/dynamax). Flexible model implementation allows for user-specified combinations of mechanistic/physical and machine-learnt/data-driven terms. Autodifferentiable implementations of filtering/data-assimilation algorithms from [Särkkaä](http://users.aalto.fi/~ssarkka/pub/bfs_book_2023_online.pdf) for computing approximate likelihoods for non-linear systems. Stochastic Gradient Descent for approximate MLE; Hamiltonian Monte Carlo MCMC for uncertainty quantification.
+
 - August 2023: I co-organized a [minisymposium on randomized machine learning at ICIAM 2023 in Tokyo](https://iciam2023.org/registered_data?id=00831) with Oliver Dunbar, Nick Nelsen, and Georg Gottwald. Thank you to our wonderful speakers, attendees, and co-organizers for such enriching sessions!
 
 - July 2023: I visited Prof. Iñigo Urteaga at the Basque Center for Applied Mathematics (BCAM) in Bilbao, Spain. Thank you to Iñigo and BCAM for hosting me! I look forward to continuing our collaboration on [uncertainty quantification for hybrid dynamical models](https://www.bcamath.org/en/news-events/events/bcam-scientific-seminar-combining-data-assimilation-and-neural-odes-learning).

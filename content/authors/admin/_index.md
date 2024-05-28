@@ -74,7 +74,7 @@ I am always interested in developing new collaborations. If you think our work i
 
 Updates:
 
-- May 2023: New jax repository ([CD_Dynamax](https://github.com/hd-UQ/cd_dynamax)) for learning dynamical systems from irregularly sampled, partially observed, noisy time-series data (extends discrete-time state-space approach in [Dynamax](https://github.com/probml/dynamax)). Joint with [Iñigo Urteaga](http://iurteaga.github.io).
+- May 2023: [CD_Dynamax](https://github.com/hd-UQ/cd_dynamax): a new jax repository for learning dynamical systems from irregularly sampled, partially observed, noisy time-series data (extends discrete-time state-space approach in [Dynamax](https://github.com/probml/dynamax)). Joint with [Iñigo Urteaga](http://iurteaga.github.io).
 
 - August 2023: I co-organized a [minisymposium on randomized machine learning at ICIAM 2023 in Tokyo](https://iciam2023.org/registered_data?id=00831) with Oliver Dunbar, Nick Nelsen, and Georg Gottwald. Thank you to our wonderful speakers, attendees, and co-organizers for such enriching sessions!
 

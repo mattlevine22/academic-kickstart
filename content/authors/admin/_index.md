@@ -10,14 +10,16 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Eric and Wendy Schmidt Center
+- name: Basis Research Institute
+  url: "https://www.basis.ai"
+- name: Affiliate at MIT UQ Group 
+  url: "https://uqgroup.mit.edu/people" 
+- name: Affiliate at Broad Institute's Eric and Wendy Schmidt Center
   url: "https://www.ericandwendyschmidtcenter.org"
-- name: Broad Institute of MIT/Harvard
-  url: "https://www.broadinstitute.org/ewsc"
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -45,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:mlevine@caltech.edu"  # For a direct email link, use "mailto:mlevine@caltech.edu".
+  link: "mailto:mattlevine22@gmail.com"  # For a direct email link, use "mailto:mattlevine22@gmail.com".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=QUs08XEAAAAJ&hl=en&authuser=1
@@ -68,15 +70,17 @@ user_groups:
 #- Visitors
 ---
 
-Welcome! I am a Postdoctoral Fellow at the Broad Institute of MIT/Harvard in the Eric and Wendy Schmidt Center. My work focuses on improving the prediction and inference of biological and physical systems by blending machine learning, mechanistic modeling, and data assimilation techniques. I aim to build robust, unifying theory for these approaches, as well as develop concrete applications. I have worked substantially in the biomedical sciences, and enjoy collaborating on impactful applied projects.
+Welcome! I am a Research Scientist at Basis, a non-profit research institute with offices in Cambridge, MA and New York, NY. My work focuses on improving the prediction and inference of biological and physical systems by blending machine learning, mechanistic modeling, and data assimilation techniques. I aim to build robust, unifying theory for these approaches, as well as develop concrete applications. I have worked substantially in the biomedical sciences, and enjoy collaborating on impactful applied projects.
 
 I am always interested in developing new collaborations. If you think our work is complementary, please send me a message!
 
 Updates:
 
+- [Canonical Bayesian Linear System Identification](https://arxiv.org/abs/2507.11535): a new paper demonstrating how to perform identifiable Bayesian system ID for noisy, partially-observed linear dynamical systems. It combines classical ideas from control theory and Bayesian inference, and was inspired by challenges faced when learning dynamical systems from data with uncertainty. Often, there are many symmetries (e.g., permutations/rotations of hidden variables) that make inference challenging and often wasteful---we directly solve this problem for linear dynamical systems, and hope these results can move us closer towards addressing the same challenge in non-linear Bayesian system ID.
+
 - [CD_Dynamax](https://github.com/hd-UQ/cd_dynamax): a new JAX repository for learning dynamical systems from irregularly sampled, partially observed, noisy time-series data (extends discrete-time state-space approach in [Dynamax](https://github.com/probml/dynamax)). Joint with [Iñigo Urteaga](http://iurteaga.github.io).
 
-- August 2023: I co-organized a [minisymposium on randomized machine learning at ICIAM 2023 in Tokyo](https://iciam2023.org/registered_data?id=00831) with Oliver Dunbar, Nick Nelsen, and Georg Gottwald. Thank you to our wonderful speakers, attendees, and co-organizers for such enriching sessions!
+#- August 2023: I co-organized a [minisymposium on randomized machine learning at ICIAM 2023 in Tokyo](https://iciam2023.org/registered_data?id=00831) with Oliver Dunbar, Nick Nelsen, and Georg Gottwald. Thank you to our wonderful speakers, attendees, and co-organizers for such enriching sessions!
 
 - July 2023: I visited Prof. Iñigo Urteaga at the Basque Center for Applied Mathematics (BCAM) in Bilbao, Spain. Thank you to Iñigo and BCAM for hosting me! I look forward to continuing our collaboration on [uncertainty quantification for hybrid dynamical models](https://www.bcamath.org/en/news-events/events/bcam-scientific-seminar-combining-data-assimilation-and-neural-odes-learning).
 

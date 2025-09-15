@@ -65,7 +65,7 @@ user_groups:
 #- Visitors
 ---
 
-Welcome! I am a Research Scientist at Basis, a non-profit research institute with offices in Cambridge, MA and New York, NY. My work focuses on improving the prediction and inference of biological and physical systems by blending machine learning, mechanistic modeling, and data assimilation techniques. I aim to build robust, unifying theory for these approaches, as well as develop concrete applications. I have worked substantially in the biomedical sciences, and enjoy collaborating on impactful applied projects. I am also an affiliate of the [MIT Uncertainty Quantification group](https://uqgroup.mit.edu) and [Broad Institute's Eric and Wendy Schmidt Center](https://www.ericandwendyschmidtcenter.org).
+Welcome! I am a Research Scientist at [Basis](https://www.basis.ai), a non-profit research institute with offices in Cambridge, MA and New York, NY. My work focuses on improving the prediction and inference of biological and physical systems by blending machine learning, mechanistic modeling, and data assimilation techniques. I aim to build robust, unifying theory for these approaches, as well as develop concrete applications. I have worked substantially in the biomedical sciences, and enjoy collaborating on impactful applied projects. I am also an affiliate of the [MIT Uncertainty Quantification group](https://uqgroup.mit.edu) and [Broad Institute's Eric and Wendy Schmidt Center](https://www.ericandwendyschmidtcenter.org).
 
 I am always interested in developing new collaborations. If you think our work is complementary, please send me a message!
 

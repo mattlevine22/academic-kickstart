@@ -71,8 +71,8 @@ I am always interested in developing new collaborations. If you think our work i
 
 Updates:
 
+- [dynestyx](https://basisresearch.github.io/dynestyx/stable/) (public version now available on PyPI) is a NumPyro-based library for Bayesian inference of dynamical systems (e.g., SSMs, SDEs, HMMs, etc.) from noisy, partial, and irregular time-series data. We decouple model specification from its inference and make advanced state-space methods easier to use in practice. We are excited for practitioners to try it on real problems, and for methodologists to critique, stress-test, and help develop the framework further.
+
 - [Canonical Bayesian Linear System Identification](https://arxiv.org/abs/2507.11535): a new paper demonstrating (theory+examples) how to perform identifiable Bayesian system ID for noisy, partially-observed linear dynamical systems. It combines classical ideas from control theory and Bayesian inference, and was inspired by challenges faced when learning dynamical systems from data with uncertainty. Often, there are many symmetries (e.g., permutations/rotations of hidden variables) that make inference challenging and often wasteful---we directly solve this problem for linear dynamical systems, and hope these results can move us closer towards addressing the same challenge in non-linear Bayesian system ID.
 
 - [CD_Dynamax](https://github.com/hd-UQ/cd_dynamax): a new JAX repository for learning dynamical systems from irregularly sampled, partially observed, noisy time-series data (extends discrete-time state-space approach in [Dynamax](https://github.com/probml/dynamax)). Joint with [Iñigo Urteaga](http://iurteaga.github.io) at [BCAM](https://www.bcamath.org/en).
-
-- May 2023: I defended my PhD thesis [Machine Learning and Data Assimilation for Blending Incomplete Models and Noisy Data](https://thesis.library.caltech.edu/15264/). I graduated with a PhD in computing and mathematical sciences at Caltech advised by Andrew Stuart. I am grateful to Andrew for his mentorship and support throughout my PhD. I am also grateful to my committee members, Yisong Yue, Houman Owhadi, and Katie Bouman for their insightful feedback and guidance.
